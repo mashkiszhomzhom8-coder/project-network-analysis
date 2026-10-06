@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated results
+output/
+*.png
+report.txt
+txt_report_modeling.txt
+template.txt
+txt_report_modeling_template.txt
+basetab_rasch.csv
+table_count.csv
+table_count_works.csv
+modeling.csv
+table_summary.csv
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
